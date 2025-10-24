@@ -1,6 +1,6 @@
-# locale-fast-remove README
+# locale-quick-remove README
 
-This is the README for your extension "locale-fast-remove". After writing up a brief description, we recommend including the following sections.
+This is the README for your extension "locale-quick-remove". After writing up a brief description, we recommend including the following sections.
 
 ## Features
 
